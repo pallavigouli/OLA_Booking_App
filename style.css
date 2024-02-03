@@ -1,0 +1,15 @@
+*{
+    background-color:bisque;
+}  
+button{
+    font-weight: bold;
+    font-size: 16px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;    
+}       
+.maindiv{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+} 
